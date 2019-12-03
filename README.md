@@ -12,11 +12,11 @@
 9)Clear all option to clear the screen<br/>
 10)Press 'q' to quit<br/>
 <br/>
-![Screenshot](354qYM.png)
+<a href="354qYM.png">Screenshot</a>
 <h2>Team Members:-</h2><br/>
-1)![masterchef2209](https://github.com/masterchef2209)<br/>
-2)![saintpopo](https://github.com/saintpopo)<br/>
-3)![ceejay](https://github.com/ceejay)<br/>
+1)<a href="https://github.com/masterchef2209">masterchef2209</a><br/>
+2)<a href="https://github.com/saintpopo">saintpopo</a><br/>
+3)<a href="https://github.com/ceejay">ceejay</a><br/>
 
 
 
