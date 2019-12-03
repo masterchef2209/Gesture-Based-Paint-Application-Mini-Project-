@@ -12,7 +12,9 @@
 9)Clear all option to clear the screen<br/>
 10)Press 'q' to quit<br/>
 <br/>
-<a href="354qYM.png">Screenshot</a>
+<p>
+    <img src="354qYM.png" width="220" height="240" />
+</p>
 <h2>Team Members:-</h2><br/>
 1)<a href="https://github.com/masterchef2209">masterchef2209</a><br/>
 2)<a href="https://github.com/saintpopo">saintpopo</a><br/>
