@@ -13,7 +13,7 @@
 10)Press 'q' to quit<br/>
 <br/>
 <p>
-    <img src="354qYM.png" width="220" height="240" />
+    <img src="354qYM.png" width="800" height="500" />
 </p>
 <h2>Team Members:-</h2><br/>
 1)<a href="https://github.com/masterchef2209">masterchef2209</a><br/>
