@@ -16,9 +16,9 @@
     <img src="354qYM.png" width="800" height="500" />
 </p>
 <h2>Team Members:-</h2><br/>
-1)<a href="https://github.com/masterchef2209">masterchef2209</a><br/>
-2)<a href="https://github.com/saintpopo">saintpopo</a><br/>
-3)<a href="https://github.com/ceejay">ceejay</a><br/>
+1)<a href="https://github.com/masterchef2209">Hidayat Khan(masterchef2209)</a><br/>
+2)<a href="https://github.com/saintpopo">Gaurav Singh(saintpopo)</a><br/>
+3)<a href="https://github.com/ceejay">Chetan Joshi(ceejay)</a><br/>
 
 
 
